@@ -35,7 +35,9 @@ gh repo clone m-c-frank/sttheme
 cd sttheme
 cp macchiato.h ~/.local/src/st/config.def.h
 cd ~/.local/src/st/
-make install
+sudo rm config.h
+sudo make clean
+sudo make install
 ```
 
 4. Then `make install` it in st folder.
