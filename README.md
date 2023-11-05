@@ -33,7 +33,7 @@ This port offers the colors needed for ST's header files, but **not an ST build*
 ```bash
 gh repo clone m-c-frank/sttheme
 cd sttheme
-cp macchiato.h ~/.local/src/st/config.h
+cp macchiato.h ~/.local/src/st/config.def.h
 cd ~/.local/src/st/
 make install
 ```
