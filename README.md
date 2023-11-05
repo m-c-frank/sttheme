@@ -38,12 +38,7 @@ cd ~/.local/src/st/
 make install
 ```
 
-
 4. Then `make install` it in st folder.
-
-## 💝 Thanks to
-
-- [Jazil T S](https://github.com/tsjazil)
 
 &nbsp;
 
